@@ -1,7 +1,7 @@
 # first-react
 Simple react project
 
-#Usage
+# Usage
 
 1. clone from git
 2. npm install
